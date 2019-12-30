@@ -1,0 +1,17 @@
+#top-page{
+	background-color: black;
+	color: white;
+}
+#top-page h1{
+	padding-top: 10px;
+	
+	font-size: 15px;
+	text-align: left;
+}
+#top-page p{
+	font-size: 11px;
+	color: #666;
+}
+.abc{
+	font-size: 4em;
+}
